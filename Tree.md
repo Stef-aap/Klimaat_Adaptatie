@@ -16,8 +16,38 @@
 \#Inzicht WarmteLek is rekenblad waarmee je op eenvoudige wijze inzicht kunt krijgen in het energieverlies van een woning.
 \#    <b><a href="https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.xlsx">Download</a></b>
 
+Oorzaak-Gevolg
+ThemaAvond
+HitteStress
+Thermisch Comfort
+Zonwering Overstek
+Groene Daken (Biobased)
+Isoleren
+Ventilator - Swamp Koeling
+Ventilatie WTW
+WarmtePomp - Airco
+Koeldeken
+Gemeentelijk Groen
+Inschrijfformulier bewonersgroen
+TuinCafé
+Vergroening
+Hitte Eiland
+WaterBeheersing
+VerbindingsZones
+Bedrijventerreinen
+Rest
+KlimaatAdaptatie
+
+
+![[image-32.png]]
+
+
+
 ´#ToDo
 '#amplitude demping
+
+
+![[image-45.png]]
 
   Inzicht Warmtelek
 \#De belangrijkste eigenschappen van dit programma, de vragen en het belangrijkste resultaat.  
