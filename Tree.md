@@ -13,11 +13,10 @@
 \# daarnaast worden alle (toonbare) documenten automatisch meegenomen
 
   \+ Basis
-\#Inzicht WarmteLek is rekenblad waarmee je op eenvoudige wijze inzicht kunt krijgen in het energieverlies van een woning.
-\#    <b><a href="https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.xlsx">Download</a></b>
+Dit zijn de ruwe aantekeningen van mijzelf.
 
 Klimaat Adaptatie
-ThemaAvond
+KernTeam
 HitteStress
 Thermisch Comfort
 Zonwering
@@ -25,15 +24,17 @@ Overstek
 Groene Daken
 (Biobased) Isoleren
 Ventilator - Swamp Koeling
+NachtKoeling
 Ventilatie WTW
 WarmtePomp - Airco
 Koeldeken
+Specials
 
  \+ Animo
 
 Gemeentelijk Groen
 Inschrijfformulier bewonersgroen.pdf
-TuinCafé
+TuinCafe
 Vergroening
 Hitte Eiland
 WaterBeheersing
