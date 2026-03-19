@@ -13,7 +13,7 @@
 \# daarnaast worden alle (toonbare) documenten automatisch meegenomen
 
   \+ Basis
-Dit zijn de ruwe aantekeningen van mijzelf.
+\#Dit zijn de ruwe aantekeningen van mijzelf.
 
 Klimaat Adaptatie
 KernTeam
