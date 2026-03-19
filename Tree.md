@@ -16,19 +16,23 @@
 \#Inzicht WarmteLek is rekenblad waarmee je op eenvoudige wijze inzicht kunt krijgen in het energieverlies van een woning.
 \#    <b><a href="https://stef-aap.github.io/Duurzaam/Inzicht_Warmtelek.xlsx">Download</a></b>
 
-Oorzaak-Gevolg
+Klimaat Adaptatie
 ThemaAvond
 HitteStress
 Thermisch Comfort
-Zonwering Overstek
-Groene Daken (Biobased)
-Isoleren
+Zonwering
+Overstek
+Groene Daken
+(Biobased) Isoleren
 Ventilator - Swamp Koeling
 Ventilatie WTW
 WarmtePomp - Airco
 Koeldeken
+
+ \+ Animo
+
 Gemeentelijk Groen
-Inschrijfformulier bewonersgroen
+Inschrijfformulier bewonersgroen.pdf
 TuinCafé
 Vergroening
 Hitte Eiland
@@ -38,30 +42,18 @@ Bedrijventerreinen
 Rest
 KlimaatAdaptatie
 
-
-![[image-32.png]]
-
-
-
-´#ToDo
-'#amplitude demping
+resources/image__32.png
+resources/image__45.png
 
 
-![[image-45.png]]
-
-  Inzicht Warmtelek
-\#De belangrijkste eigenschappen van dit programma, de vragen en het belangrijkste resultaat.  
-
-  De Basis Vragen  | Basis Vragen
-\#De Basisvragen die minimaal beantwoord moeten worden en een toelichting hierop, plus een paar bijzondere velden op het basis-blad.
 
 
-  https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
 
-  https://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
-'# Werklandschappen is 
-Dashboard
-https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
+Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
+
+Xhttps://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
+
+Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard
 
 
 
