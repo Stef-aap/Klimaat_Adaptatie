@@ -61,5 +61,11 @@ Xhttps://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappens
 
 Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard
 
+https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
+
+https://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
+
+https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard
+
 
 
