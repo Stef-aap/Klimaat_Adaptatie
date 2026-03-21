@@ -29,43 +29,26 @@ NachtKoeling
 Ventilatie WTW
 WarmtePomp - Airco
 Koeldeken
-<https://klimaatadaptatienederland.nl/publish/pages/173358/flyer_meekoppelen_klimaatadaptatie_en_mitigatie_1.pdf>
+Xhttps://klimaatadaptatienederland.nl/publish/pages/173358/flyer_meekoppelen_klimaatadaptatie_en_mitigatie_1.pdf | Koppel Kansen
 Specials
-https://klimaatadaptatienederland.nl/publish/pages/173358/flyer_meekoppelen_klimaatadaptatie_en_mitigatie_1.pdf | Koppelkansen
-
-
 
  \+ Animo
-
 Gemeentelijk Groen
-Inschrijfformulier bewonersgroen.pdf
+Inschrijfformulier bewonersgroen.pdf  | Form Bewonersgroen
 TuinCafe
 Vergroening
 Hitte Eiland
 WaterBeheersing
 VerbindingsZones
 Bedrijventerreinen
-Rest
 KlimaatAdaptatie
 
 resources/image__32.png
 resources/image__45.png
 
-
-
-
-
-Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
+Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard Industrie
 
 Xhttps://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
-
-Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard
-
-https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/
-
-https://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
-
-https://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard
 
 
 
