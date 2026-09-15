@@ -34,8 +34,8 @@ https://archive.is/96QM6 | Thema-avond EnergieCafe
 Biodiversiteit
 \#Presentatie over biodiversiteit, door Govert de Jong (IVN Maas en Waal?)
 
-Koel_Wonen6.pdf | Koel Wonen
-\#Presentatie van Stef Mientki, EnergieCafe Mook en Middelaar, in pdf form. Het eerste stuk bevat alle diaś zonder commentaar, daarna volgen alle dia's nog een keer, maar dan met commentaar.
+Koel_Wonen.pdf | Koel Wonen
+\#Presentatie van Stef Mientki, EnergieCafe Mook en Middelaar, in pdf form. Deze pdf bevat alle dia's met commentaar.
 \#In het hoofdstuk "Koel Wonen" staat ook de hele presentatie op een veel betere wijze georganiseerd en met nog wat meer achtergrond informatie.
 
 https://archive.is/FKbjO  | Animo
@@ -45,8 +45,6 @@ https://archive.is/wZrPn  | EnergieCafe
 \#De website van het EnergieCafé Mook en Middelaar
 \#
 \#In het hoofdstuk Buurt Tafels worden alle tafels van buurtgenoten beschreven die op de thema-avond hun informatie hebben gedeeld.
-\#
-\#Het hoofdstuk Uitzoeken, zegt het al
 \#
 \#Het hoofdstuk Rest, zou niet mogen voorkomen
 
@@ -96,41 +94,5 @@ https://archive.is/I87W9  | Waterklaar
 https://archive.is/RgDPM  | Weerbare Buurten
 \#Xhttps://www.kalliste.nl/project/mook-bovensteweg | Neuwbouw Eendracht
 https://archive.is/S8xb6  | Nieuwbouw Eendracht
-
-
-  \+ Uitzoeken
-
-KernTeam
-HitteStress
-Thermisch Comfort
-Zonwering
-Overstek
-Groene Daken
-(Biobased) Isoleren
-Ventilator - Swamp Koeling
-NachtKoeling
-Ventilatie WTW
-WarmtePomp - Airco
-Koeldeken
-Xhttps://klimaatadaptatienederland.nl/publish/pages/173358/flyer_meekoppelen_klimaatadaptatie_en_mitigatie_1.pdf | Koppel Kansen
-Specials
-
-Gemeentelijk Groen
-Inschrijfformulier bewonersgroen.pdf  | Form Bewonersgroen
-TuinCafe
-Vergroening
-Hitte Eiland
-WaterBeheersing
-VerbindingsZones
-Bedrijventerreinen
-KlimaatAdaptatie
-
-resources/image__32.png
-resources/image__45.png
-
-Xhttps://www.werklandschappen.nl/toolbox/tools/werklandschappendashboard/ | Dashboard Industrie
-
-Xhttps://www.werklandschappen.nl/app/uploads/2026/03/Factsheet-Werklandschappenscan.pdf  | Factsheet Industrie
-
 
 
