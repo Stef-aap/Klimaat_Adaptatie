@@ -22,8 +22,8 @@
 \# - EnergieCafé Mook en Middelaar. 
 \# - met medewerking van een groot aantal buurtgenoten, zie hoofdstuk Buurt Tafels
 
-Klimaat Adaptatie
-\#Inleidende presentatie, Goke Pieters, dorpsgenoot en projectmedewerker bij ....
+Klimaatadaptatie-presentatie-Goke Pieters.pdf | KlimaatAdaptatie
+\#Klimaatadaptatie-presentatie door Goke Pieters
 
 https://archive.is/VjzTz  | Thema-avond Animo
 \# Aankondiging thema-avond door Animo
@@ -31,8 +31,8 @@ https://archive.is/VjzTz  | Thema-avond Animo
 https://archive.is/96QM6 | Thema-avond EnergieCafe
 \# Aankondiging thema-avond door EnergieCafe Mook en Middelaar
 
-Biodiversiteit
-\#Presentatie over biodiversiteit, door Govert de Jong (IVN Maas en Waal?)
+Zo creeer je een levende tuin - Govert de Jong.pdf | Biodiversiteit
+\#BiodiversiteitPresentatie over biodiversiteit, door Govert de Jong (IVN Maas en Waal?)
 
 Koel_Wonen.pdf | Koel Wonen
 \#Presentatie van Stef Mientki, EnergieCafe Mook en Middelaar, in pdf form. Deze pdf bevat alle dia's met commentaar.
@@ -45,8 +45,6 @@ https://archive.is/wZrPn  | EnergieCafe
 \#De website van het EnergieCafé Mook en Middelaar
 \#
 \#In het hoofdstuk Buurt Tafels worden alle tafels van buurtgenoten beschreven die op de thema-avond hun informatie hebben gedeeld.
-\#
-\#Het hoofdstuk Rest, zou niet mogen voorkomen
 
   \+Koel Wonen
 \#Deze paragraaf bevat de presentatie van Stef Mientki, van het EnergieCafé Mook en Middelaar.
@@ -77,22 +75,39 @@ Vragen
 
 \#Xhttps://maasburen.nl/pagina/natuur-en-milieugroep-animo | Animo
 https://archive.is/FKbjO  | Animo
+
 Bart en Myrte -
+
 \#Xhttps://maasburen.nl/pagina/energiecafe  | EnergieCafe
 https://archive.is/wZrPn  | EnergieCafe
+
 GemeenteGroen -
 Groene Daken -
+
 https://www.atlasleefomgeving.nl/thema/klimaatverandering/kaarten  | Klimaatatlas
+
 https://www.landgoeddelagelier.nl/  | Landgoed de Lage Lier
+
+Bijdrage Jeanne Mertens.pdf  | SoortenKijker
+\#Basiskwaliteit Natuur, de Soortenkijker, De Voedseltuin, film Grensgebier
+
 \#Xhttps://maasburen.nl/pagina/tuincafe-mook-en-middelaar  | TuinCafe
 https://archive.is/GCA3M  | Tuincafe
+
 \#Xhttps://www.facebook.com/vlinderidylle/?locale=nl_NL  | Vlinderwei
 https://archive.is/5VqVG  | Vlinderwei
+
 \#Xhttps://waterklaar.nl/  | Waterklaar
 https://archive.is/I87W9  | Waterklaar
+
 \#Xhttps://maasburen.nl/pagina/voorbereid-op-een-calamiteit  | Weerbare Buurten
 https://archive.is/RgDPM  | Weerbare Buurten
+
 \#Xhttps://www.kalliste.nl/project/mook-bovensteweg | Neuwbouw Eendracht
 https://archive.is/S8xb6  | Nieuwbouw Eendracht
+
+
+
+
 
 
