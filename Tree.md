@@ -21,6 +21,8 @@
 \# - Natuur en Milieugroep Animo
 \# - EnergieCafé Mook en Middelaar. 
 \# - met medewerking van een groot aantal buurtgenoten, zie hoofdstuk Buurt Tafels
+https://archive.is/BJb0x | presentaties en indrukken
+
 
 Klimaatadaptatie-presentatie-Goke Pieters.pdf | KlimaatAdaptatie
 \#Klimaatadaptatie-presentatie door Goke Pieters
@@ -81,29 +83,32 @@ Bart en Myrte -
 \#Xhttps://maasburen.nl/pagina/energiecafe  | EnergieCafe
 https://archive.is/wZrPn  | EnergieCafe
 
-GemeenteGroen -
 Groene Daken -
 
-https://www.atlasleefomgeving.nl/thema/klimaatverandering/kaarten  | Klimaatatlas
+\# Dirk en Petra Voets  vertonen interessante kaarten uit de klimaateffect atlas:
+Xhttps://www.klimaateffectatlas.nl/nl/kaartviewer?config=7f5adc24-36f1-43fa-bab2-952828369890&divisionId=YWFMLMWERURF&gm-x=188584.90854728312&gm-y=419819.90163052635&gm-z=11&gm-b=1727766244161,true,1;1745312124230,true,0.78  | Gevoelstemperatuur
+
+Xhttps://www.klimaateffectatlas.nl/nl/kaartviewer?config=7f5adc24-36f1-43fa-bab2-952828369890&divisionId=YWFMLMWERURF&gm-x=188584.90854728312&gm-y=419819.90163052635&gm-z=11&gm-b=1727766244161,true,1;1645194813373,true,1 | Afstand tot Koelte
 
 https://www.landgoeddelagelier.nl/  | Landgoed de Lage Lier
 
-Bijdrage Jeanne Mertens.pdf  | SoortenKijker
-\#Basiskwaliteit Natuur, de Soortenkijker, De Voedseltuin, film Grensgebier
+Bijdrage Jeanne Mertens.pdf  | SoortenKijker en meer
+\#Basiskwaliteit Natuur, de Soortenkijker, 
+\#De Voedseltuin, 
+\#film Grensgebied
+Xhttps://soortenkijker.groenebondgenoten.nl/score/51.76582/5.87374/ | Soortenkijker
+https://vierhetlandschap.nl/film/ | film Grensgebied
+https://www.voedseltuingroesbeek.nl/  | Voedseltuin
 
-\#Xhttps://maasburen.nl/pagina/tuincafe-mook-en-middelaar  | TuinCafe
+
 https://archive.is/GCA3M  | Tuincafe
 
-\#Xhttps://www.facebook.com/vlinderidylle/?locale=nl_NL  | Vlinderwei
 https://archive.is/5VqVG  | Vlinderwei
 
-\#Xhttps://waterklaar.nl/  | Waterklaar
 https://archive.is/I87W9  | Waterklaar
 
-\#Xhttps://maasburen.nl/pagina/voorbereid-op-een-calamiteit  | Weerbare Buurten
 https://archive.is/RgDPM  | Weerbare Buurten
 
-\#Xhttps://www.kalliste.nl/project/mook-bovensteweg | Neuwbouw Eendracht
 https://archive.is/S8xb6  | Nieuwbouw Eendracht
 
 
